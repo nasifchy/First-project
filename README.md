@@ -1,2 +1,2 @@
 # First-project
-https://github.com/nasifchy/First-project.git
+https://nasifchy.github.io/First-project/
